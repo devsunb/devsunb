@@ -1,11 +1,11 @@
 <div align="center">
     <img height="190" src="https://github-readme-stats.vercel.app/api?username=devsunb&custom_title=GitHub Stats&count_private=true&show_icons=true&theme=github_dark"/>
     <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsunb&hide=html,css&langs_count=8&layout=compact&theme=github_dark"/>
-    <h3>📱 Contacts</h3>
+    <h3>📱 Contact</h3>
     <a href="mailto:devsunb@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://github.com/devsunb/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://www.facebook.com/devsunb/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-    <h3>💻&nbsp&nbspSkills</h3>
+    <h3>💻&nbsp&nbspSkill</h3>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
