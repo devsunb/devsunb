@@ -1,6 +1,5 @@
 - DevOps Engineer @Inflab
-- I want a stable state of mind for me and my coworkers.
-- My current interests
+- I'm interested in automation, visualization, peace of mind, and ...
   - Neovim, Shell
   - AWS, Pulumi, K8s
   - Grafana LGTM, OTel
