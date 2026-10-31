@@ -1,6 +1,9 @@
-- DevOps Engineer @Inflab
-- I'm interested in automation, visualization, peace of mind, and ...
-  - Neovim, Shell
-  - AWS, Pulumi, K8s
-  - Grafana LGTM, OTel
-  - DAG Pipeline
+- DevOps Engineer at [Inflab](https://github.com/inflearn) ([Inflearn](https://www.inflearn.com), [Rallit](https://www.rallit.com))
+- I'm curious about how people explore, digest, and organize information so it's there when they need it, and how they use it to anticipate and plan for the future
+  - Learning and thinking: Evergreen notes, Zettelkasten, Org Mode
+  - Planning: GTD, Time tracking, Feedback loops
+  - Teaching: Mentoring, Intrinsic motivation
+- I believe flow is where great work happens, so I build automation and visualization that give my teammates and me the peace of mind to get into flow as we pursue our goals
+  - Work: AWS, Pulumi, Kubernetes, Argo, Grafana
+  - Personal: Emacs Lisp, Hammerspoon, Neovim, tmux, Agent harness
+  - Input: kanata, ZMK, Ergonomics
